@@ -1,0 +1,13 @@
+.NAS{
+    font-family: 'Fugaz One', cursive;
+    font-size: 30px;
+}
+.title {  
+    font-family: 'Roboto', sans-serif;
+    color: rgb(76, 137, 250);
+ }
+ .description {
+    font-size: 20px;
+    font-weight: 600;
+    opacity: 0.8;
+  }
